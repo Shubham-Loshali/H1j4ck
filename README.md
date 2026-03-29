@@ -13,18 +13,7 @@ This **educational** project shows how a malicious browser extension could be us
 
 This captured information is sent to the attacker's **Telegram**. The session cookies allow an attacker to bypass **two-factor** authentication, potentially giving them access to the user’s account, even if they are not logged in.
 
-**📸 Data Reception on Telegram**
 
-![Telegram Data Access](https://i.postimg.cc/3Jvk13pQ/IMG-20250727-113311.jpg)
-
-**🎥 Educational Demo**
-> https://youtu.be/A_vmhPnZzKs
-
----
-
-## 📚 Bot token & chatid
-
-> https://youtube.com/shorts/ZvCdiTS-uGw
 
 ---
 
